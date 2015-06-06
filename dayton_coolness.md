@@ -22,9 +22,4 @@ A Jawa sandcrawler
 
 A farmstead operating entirely off 19th-century technology you can watch and participate in.
 
-## Science
-
-### Boonshoft museum
-
-Kids' science museum with small zoo inside
-
+### Sunwatch Village

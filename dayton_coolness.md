@@ -11,6 +11,7 @@ Big honking pipe organ, with [public performances](http://www.westminsterdayton.
 ### Dayton Diode
 
 Local non-profit makerspace.
+Address: 660 Milburn Avenue, Dayton, OH
 http://www.daytondiode.org/
 
 ### Fabspace
@@ -21,6 +22,10 @@ http://fabspace.net/
 ### ProtoBuildBar
   
 Bar with 3-D printing.  
+
+### Tech Town
+
+Lovely host of Code for Dayton
 
 ### Mendelson's
 

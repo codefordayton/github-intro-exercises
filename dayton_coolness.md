@@ -55,6 +55,10 @@ Kids' science museum with small zoo inside
 
 The Dayton Beer Company is a multiple Award Winning Brewery and was voted  Dayton’s Best Microbrewery in 2014.
 
+### [Eudora Brewing Company](http://eudorabrewing.com/)
+
+Brewery with an onsite taproom, shiny brew kettles, and the ability to brew your own batch. 
+
 ### Young's Dairy
 
 Working farm with activities for children

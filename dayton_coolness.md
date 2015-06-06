@@ -32,6 +32,12 @@ A huge liquidation store across from the Dragon's baseball stadium.
 
 A farmstead operating entirely off 19th-century technology you can watch and participate in.
 
+## Food
+
+### Winans fine chocolates & coffees
+
+http://www.winansdayton.net/
+
 ## Science
 
 ### Boonshoft museum
@@ -44,3 +50,8 @@ Kids' science museum with small zoo inside
 
 The Dayton Beer Company is a multiple Award Winning Brewery and was voted  Dayton’s Best Microbrewery in 2014
 
+### Young's Dairy
+
+Working farm with activities for children
+
+http://youngsdairy.com/

@@ -51,9 +51,9 @@ Kids' science museum with small zoo inside
 
 ## Beer
 
-### The Dayton Beer Company
+### [The Dayton Beer Company](http://thedaytonbeerco.com/)
 
-The Dayton Beer Company is a multiple Award Winning Brewery and was voted  Dayton’s Best Microbrewery in 2014
+The Dayton Beer Company is a multiple Award Winning Brewery and was voted  Dayton’s Best Microbrewery in 2014.
 
 ### Young's Dairy
 

@@ -22,6 +22,10 @@ http://fabspace.net/
   
 Bar with 3-D printing.  
 
+### Tech Town
+
+Lovely host of Code for Dayton
+
 ### Mendelson's
 
 A huge liquidation store across from the Dragon's baseball stadium.

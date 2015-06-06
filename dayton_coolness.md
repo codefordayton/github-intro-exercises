@@ -30,4 +30,6 @@ Kids' science museum with small zoo inside
 
 ### Young's Dairy
 
+Working farm with activities for children
+
 http://youngsdairy.com/

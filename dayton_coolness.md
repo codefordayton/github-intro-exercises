@@ -22,6 +22,12 @@ A Jawa sandcrawler
 
 A farmstead operating entirely off 19th-century technology you can watch and participate in.
 
+## Food
+
+### Winans fine chocolates & coffees
+
+http://www.winansdayton.net/
+
 ## Science
 
 ### Boonshoft museum

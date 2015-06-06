@@ -11,6 +11,7 @@ Big honking pipe organ, with public performances
 ### Dayton Diode
 
 Local non-profit makerspace.
+Address: 660 Milburn Avenue, Dayton, OH
 http://www.daytondiode.org/
 
 ### Fabspace
